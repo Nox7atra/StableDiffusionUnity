@@ -1,0 +1,13 @@
+{
+    "name": "com.dev_game.sdunity",
+    "version": "1.0.0",
+    "displayName": "Stable Diffusion Unity",
+    "description": "Plugin integrates Stable Diffusion in Unity",
+    "unity": "2021.3",
+    "unityRelease": "20f1",
+    "author": {
+        "name": "dev_game",
+        "email": "dyadichenkoga@foxsys.pro",
+        "url": "https://dev-game.pro/"
+    }
+}
